@@ -38,9 +38,9 @@ The system displays the diagnosis result in color-coded text on the screen.
 
 ✅ Healthy
 
-(docs/healty.png)
+![Healthy](docs/healthy.png)
 
 ⚠️ Diseased
 
-(docs/diseased.png)
+![Diseased](docs/diseased.png)
 
